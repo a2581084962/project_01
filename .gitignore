@@ -1,0 +1,4 @@
+#忽略style.css这个文件
+style.css
+#忽略text文件的所有内容
+text/
